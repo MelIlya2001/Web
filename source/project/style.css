@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  background-color: #f8f2f8;
+}
+
+.heading {
+    margin: 0 0 24px;
+    font-size: 50px;
+    line-height: 66px;
+}
+
+h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+.description div {
+    text-align: center;
+}
+
+.description p {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.description img {
+    border-radius: 40%;
+    border: 1em solid #fea18d;
+    vertical-align: middle;
+}
+
+.full_description p {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.specifications ul {
+    font-family: fantasy;
+    font-style: italic;
+    color: slategrey;
+    list-style: none;
+}
+
+.container {
+    max-width: 928px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.page-header {
+    text-align: right;
+}
+
+.page-header a {
+    margin-left: 56px;
+    color: #fea18d;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.header-email {
+    padding-left: 30px;
+    background-image: url("img/icon-email.svg");
+}
+
+.header-phone {
+    padding-left: 25px;
+    background-image: url("img/icon-phone.svg");
+}
+
+.page-footer {
+    padding: 10px;
+    border-top: 2px solid #707070;
+    color: #707070
+}
