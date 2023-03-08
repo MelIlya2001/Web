@@ -59,6 +59,7 @@ h2 {
     gap: 15px;
 }
 .description p {
+    display: block;
     color: #707070;
     font-size: 18px;
     font-style: italic;
