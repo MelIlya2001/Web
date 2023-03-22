@@ -8,6 +8,6 @@
 - [x] **"homework3"** - 3-ое задание
 - [x] **"homework4"** - 4-ое задание
 - [x] [**"homework5"** - 5-ое задание](https://codepen.io/MelIlya2001/pen/zYJPVBz)
-- [ ] **"homework6"** - 6-ое задание
+- [x] [**"homework6"** - 6-ое задание](https://codepen.io/MelIlya2001/pen/ZEMmBvb)
 - [ ] **"homework7"** - 7-ое задание
 - [ ] **"homework8"** - 8-ое задание
