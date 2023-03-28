@@ -9,5 +9,8 @@
 - [x] **"homework4"** - 4-ое задание
 - [x] [**"homework5"** - 5-ое задание](https://codepen.io/MelIlya2001/pen/zYJPVBz)
 - [x] [**"homework6"** - 6-ое задание](https://codepen.io/MelIlya2001/pen/ZEMmBvb)
-- [ ] **"homework7"** - 7-ое задание
+- [x] **"homework7"** - 7-ое задание<br>
+      - [x] [**1** - "Анимация на чистом CSS"](https://codepen.io/MelIlya2001/pen/vYzbYqM)<br>
+      - [x] [**2** - "Анимация svg изображения"](https://codepen.io/MelIlya2001/pen/VwGgvEE)<br>
+      - [x] [**3** - "Анимация диаграммы"](https://codepen.io/MelIlya2001/pen/BaOMjdz)
 - [ ] **"homework8"** - 8-ое задание
