@@ -16,3 +16,4 @@
 - [x] [**"homework8"** - 8-ое задание](https://www.figma.com/file/KkPdaxw6ImFxWxEnSDvJGC/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%B8-%D0%BC%D1%83%D0%B4%D0%B1%D0%BE%D1%80%D0%B4-(Copy)-(Copy)?node-id=0%3A1&t=UbpsNh3AKIK6XEOj-1)
 - [x] **"homework9"** - 9-ое задание
 - [x] **"homework10"** - 10-ое задание
+- [x] **"homework14"** - 14-ое задание
